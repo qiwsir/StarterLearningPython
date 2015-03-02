@@ -2,7 +2,7 @@
 
 >In the begning when God created the heavens and the earth. the earth was a formless void and darkness covered the face of the deep, while a wind from God swept over the face of the waters. Then God said,"Let there be light"; and there was light. And God saw that the light was good; and God separated the light from the darkness. (GENESIS 1:1-4)
 
-#目录
+#《零基础学python》（第二版）
 
 ##预备动作
 

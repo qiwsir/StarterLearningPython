@@ -28,6 +28,7 @@
 14. [回顾列表和字符串](./114.md)==>比较列表和字符串的相同点和不同点
 15. [元组](./115.md)==>元组定义和基本操作，使用意义
 16. [字典(1)](./116.md)==>字典创建方法、基本操作（长度、读取值、删除值、判断键是否存在）
+17. [字典(2)](./117.md)==>字典方法:copy/deepcopy/clear/get/setdefault/items/iteritems/keys/iterkeys/values/itervalues/pop/popitem/update/has_key
 
 ##第二部分：函数和类
 

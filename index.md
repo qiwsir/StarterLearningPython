@@ -29,6 +29,7 @@
 15. [元组](./115.md)==>元组定义和基本操作，使用意义
 16. [字典(1)](./116.md)==>字典创建方法、基本操作（长度、读取值、删除值、判断键是否存在）
 17. [字典(2)](./117.md)==>字典方法:copy/deepcopy/clear/get/setdefault/items/iteritems/keys/iterkeys/values/itervalues/pop/popitem/update/has_key
+18. [集合(1)](./118.md)==>创建集合，集合方法：add/update,pop/remove/discard/clear，可哈希与不可哈希
 
 ##第二部分：函数和类
 

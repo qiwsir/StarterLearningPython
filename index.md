@@ -38,6 +38,7 @@
 24. [语句(4)](./124.md)==>并行迭代：zip()，enumerate()，list解析
 25. [语句(5)](./125.md)==>while循环，while...else，for...else
 26. [文件(1)](./126.md)==>文件打开，读取，写入
+27. [文件(2)](./127.md)==>文件状态，read/readline/readlines，大文件读取，seek
 
 ##第二部分：函数和类
 

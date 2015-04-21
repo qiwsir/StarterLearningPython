@@ -1,3 +1,3 @@
 #This is for everyone.
 
-#From starter to master.
+#From beginner to master.

@@ -86,6 +86,7 @@
 5. [标准库(4)](./223.md)==>堆的基本知识，heapq模块，deque模块
 6. [标准库(5)](./224.md)==>calendar模块、time模块、datetime模块
 7. [标准库(6)](./225.md)==>urllib模块、urllib2模块
+8. [标准库(7)](./226.md)==>xml.etree.ElementTree模块：遍历查询、增删改查xml，应用实例
 
 ##第柒章 保存数据
 

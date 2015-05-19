@@ -7,7 +7,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
-from handler.index import IndexHandler
+from handlers.index import IndexHandler
 
 url = [
     (r'/', IndexHandler),

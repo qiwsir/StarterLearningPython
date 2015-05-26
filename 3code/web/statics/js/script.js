@@ -10,6 +10,7 @@ $(document).ready(function(){
             data:pd,
             cache:false,
             success:function(data){
+                //window.location.href = "/user?user="+data;
                 alert(data);
             },
             error:function(){

@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Learning Python</title>
-</head>
-<body>
+{% extends "base.html" %}
+
+{% block header %}
     <h2>Your informations are:</h2>
+{% end %}
+
+{% block body %}
     <ul>
         {% for one in users %}
             <li>username:{{one[1]}}</li>
@@ -13,4 +12,4 @@
             <li>email:{{one[3]}}</li>
         {% end %}
     </ul>
-</body>
+{% end %}

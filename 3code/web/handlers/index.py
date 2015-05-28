@@ -17,6 +17,7 @@ class IndexHandler(tornado.web.RequestHandler):
         if user_infos:
             db_pwd = user_infos[0][2]
             if db_pwd == password:
+                self.set_secure_cookie(username,db_pwd)
                 self.write(username)
             else:
                 self.write("your password was not right.")

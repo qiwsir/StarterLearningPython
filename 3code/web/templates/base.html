@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Learning Python</title>
+    <link rel="stylesheet" type="text/css" href="{{static_url("css/style.css")}}"
+</head>
+<body>
+    <header>
+        {% block header %}{% end %}
+    </header>
+    <content>
+        {% block body %}{% end %}
+    </content>
+    <footer>
+        {% set website = "<a href='http://www.itdiffer.com'>welcome to my website</a>" %}
+        {% raw website %}
+    </footer>
+    <script src="{{static_url("js/jquery.min.js")}}"></script>
+    <script src="{{static_url("js/script.js")}}"></script>
+</body>
+</html>

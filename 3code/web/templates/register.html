@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block header %}
+    <h2>注册页面</h2>
+{% end %}
+{% block body %}
+    <form method="POST">
+        <p><span>UserName:</span><input type="text" id="username"/></p>
+        <p><span>Password:</span><input type="text" id="password" /></p>
+        <p><span>Email:</span><input type="text" id="email" /></p>
+        <p><input type="BUTTON" value="注册" id="register" /></p>
+    </form>
+{% end %}

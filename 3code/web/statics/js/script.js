@@ -13,7 +13,11 @@ $(document).ready(function(){
             data:pd,
             cache:false,
             success:function(data){
-                window.location.href = "/user?user="+data;
+                if (data=="-1"){
+                    window.location.href="/error";
+                }else{
+                    window.location.href = "/user?user="+data;
+                }
             },
             error:function(){
                 alert("error!");

@@ -37,8 +37,8 @@
 # print "Cannot do this: %s" % "#d.join('.')"
 
 # Python Best Practise
-vals = [2, 3, -5, 0]
-result = [el * el for el in vals if el > 0]
-print result
+# vals = [2, 3, -5, 0]
+# result = [el * el for el in vals if el > 0]
+# print result
 
 

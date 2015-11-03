@@ -1,6 +1,8 @@
 # /usr/bin/env python
 # coding:utf-8
 
+__all__ = ['_private_variable', 'public_teacher']
+
 public_variable = "Hello, I am a public variable."
 _private_variable = "Hi, I am a private variable."
 

@@ -2,7 +2,13 @@
 
 >In the begning when God created the heavens and the earth. the earth was a formless void and darkness covered the face of the deep, while a wind from God swept over the face of the waters. Then God said,"Let there be light"; and there was light. And God saw that the light was good; and God separated the light from the darkness. (GENESIS 1:1-4)
 
-#《零基础学python》（第二版）：From beginner to master.
+#《跟老齐学Python》（第二版）：From beginner to master.
+
+针对零基础的学习者，试图实现从基础到精通，还要看自己的造化。
+
+原名叫做《零基础学Python》，后来由于图书出版，更名为《跟老齐学Python》。
+
+《跟老齐学Python：从入门到精通》一书已经由电子工业出版社出版，于2016年3月1日起，陆续在亚马逊、京东、当当、淘宝等网站发售，请关注，并感谢支持。
 
 #第壹季 基础
 

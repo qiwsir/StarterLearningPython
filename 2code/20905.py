@@ -1,0 +1,30 @@
+#!/usr/bin/env python
+# coding=utf-8
+
+class Person(object):
+    def __init__(self, name):
+        self.name = name
+        
+    def height(self, m):
+        h = dict((["height", m],))
+        return h
+
+    def breast(self, n):
+        b = dict((["breast", n],))
+        return b
+
+class Girl(Person):
+    def __init__(self, name):
+        #Person.__init__(self, name)
+        super(Girl, self).__init__(name)
+        self.real_name = "Aoi sola"
+
+    def get_name(self):
+        return self.name
+
+if __name__ == "__main__":
+    cang = Girl("canglaoshi")
+    print cang.real_name
+    print cang.get_name()
+    print cang.height(160)
+    print cang.breast(90)

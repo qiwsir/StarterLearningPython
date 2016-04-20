@@ -12,7 +12,7 @@ class MyRange(object):
     def __iter__(self):
         return self
 
-    def next(self):
+    def __next__(self):
         if self.i <= self.n:
             i = self.i
             self.i += 1
@@ -21,18 +21,8 @@ class MyRange(object):
             raise StopIteration()
 
 if __name__ == "__main__":
-    x = MyRange(3)
-    print "self.n=",x.n,";","self.i=",x.i
-    x.next()
-    print "self.n=",x.n,";","self.i=",x.i
-    x.next()
-    print "self.n=",x.n,";","self.i=",x.i
-    x.next()
-    print "self.n=",x.n,";","self.i=",x.i
-    x.next()
-    print "self.n=",x.n,";","self.i=",x.i
-    
-    #print [i for i in x]
+    x = MyRange(7)
+    print([i for i in x])
     #print list(x)
     #print "x.next()==>", x.next()
     #print "x.next()==>", x.next()

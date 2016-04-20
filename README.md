@@ -2,7 +2,9 @@
 
 >In the begning when God created the heavens and the earth. the earth was a formless void and darkness covered the face of the deep, while a wind from God swept over the face of the waters. Then God said,"Let there be light"; and there was light. And God saw that the light was good; and God separated the light from the darkness. (GENESIS 1:1-4)
 
-#《跟老齐学Python》（第二版）：From beginner to master.
+#《跟老齐学Python》（第二版）
+
+From beginner to master.
 
 针对零基础的学习者，试图实现从基础到精通，还要看自己的造化。
 
@@ -75,8 +77,7 @@
 5. [类(5)](./209.md)==>继承，super，多重继承
 6. [多态和封装](./211.md)==>多态，封装和私有化
 7. [定制类](./239.md)==>类和类型，定制类
-8. [特殊方法(1)](./212.md)==>`__dict__`和`__slots__`
-9. [特殊方法(2)](./213.md)==>`__getattr__`,`__setattr__`以及查找属性顺序,双划线解释
+8. [黑魔法](./240.md)==>优化内存的`__slots__`，属性拦截
 10. [迭代器](./214.md)==>迭代器方法`__iter__`,`netx()`
 11. [生成器](./215.md)==>生成器定义，yield，生成器方法
 12. [上下文管理器](./235.md)==>上下文管理器的基本概念，使用方法和contextlib模块

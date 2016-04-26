@@ -21,4 +21,4 @@ e = copy.deepcopy(a)
 a.append("abc")
 foo.value = 17
 
-print "original: %r\n slice: %r\n list(): %r\n copy(): %r\n deepcopy(): %r\n" % (a,b,c,d,e)
+print("original: {0}\n slice: {1}\n list(): {2}\n copy(): {3}\n deepcopy(): {4}\n".format(a,b,c,d,e))

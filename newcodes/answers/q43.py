@@ -16,7 +16,7 @@ while True:
         print("The number should be in 1 to 100.")
     else:
         if number == int(num_input):
-            print("OK, you are good.It is only {0}, then you successed.".format(guess))
+            print("OK, you are good. It is only {0}, then you successed the number is {1}.".format(guess, num_input))
             break
         elif number > int(num_input):
             print("your number is smaller.")

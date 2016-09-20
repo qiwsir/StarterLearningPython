@@ -5,7 +5,7 @@ import re
 
 def validate_email(email):
     if len(email) > 4:
-        if re.match("^[a-zA-Z0-9._%-]+@[a-zA-Z0-9._%-]+.[a-zA-Z]{2,6}$", email) != None:
+        if re.match("^[a-zA-Z0-9._%-]+@[a-zA-Z0-9._%-]+\.[a-zA-Z]{2,6}$", email) != None:
             return True
     else:
         return False

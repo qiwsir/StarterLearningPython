@@ -8,9 +8,9 @@ if __name__ == "__main__":
     while True:
         print("please input two number and then the program will add them.'q'-exit.")
         v_1 = input("input a number:")
-        v_2 = input("input another number:")
-        if v_1 == "q" or v_2 == "q":
+        if v_1 == "q":
             break
         else:
+            v_2 = input("input another number:")
             result = add(v_1, v_2)
             print("{0} + {1} = {2}".format(v_1, v_2, result))

@@ -1,5 +1,7 @@
-#!/usr/bin/env python
-# coding=utf-8
+# coding:utf-8
+'''
+filename: nameage.py
+'''
 
 name = input("What is your name?") 
 age = input("How old are you?")

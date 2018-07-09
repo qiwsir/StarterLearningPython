@@ -1,5 +1,7 @@
 # coding:utf-8
-
+'''
+filename: weight.py
+'''
 def weight(g):
     def cal_mg(m):
         return m * g

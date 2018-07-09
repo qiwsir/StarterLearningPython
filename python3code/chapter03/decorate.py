@@ -1,4 +1,7 @@
 # coding:utf-8
+'''
+filename: decorate.py
+'''
 
 def p_decorate(func):
     def wrapper(name):

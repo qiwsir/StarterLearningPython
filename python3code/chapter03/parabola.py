@@ -1,4 +1,7 @@
 # coding:utf-8
+'''
+filename: parabola.py
+'''
 
 def parabola(a, b, c):
     def para(x):

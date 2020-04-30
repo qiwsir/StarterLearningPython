@@ -8,25 +8,22 @@
 
 # 相关资源
 
-## 个人网站
-
-[itdiffer.com](http://www.itdiffer.com)
-
-## QQ群：26913719
+## 读者QQ群：26913719
 
 说明：此QQ群是读者交流，而非作者答疑区，请特别注意。如果读者有问题，可以在群里面跟其它读者交流。作者没有答疑的义务。恕不接待任何形式的答疑。
 
-关于本QQ群的更多说明：
+## 微信公众号：老齐教室
 
-- 入群回答问题，答案是：5。
+![](https://public-tuchuang.oss-cn-hangzhou.aliyuncs.com/officialaccounts_20200311104512.png)
 
-# 本书配套小程序
+## 与本书相关的其他资源：
 
-小程序名称：跟老齐学
+- 勘误与修订：https://itdiffer.com/2020/04/30/learn-python-with-laoqi/
+- 推荐相关视频课程：
+  - CSDN学院：[《Python零基础轻松入门》](https://edu.csdn.net/course/detail/26676)
+  - 网易云课堂：[《Python全栈工程师》](https://mooc.study.163.com/smartSpec/detail/1202847601.htm)
+- 更多文章：[Python编程文章汇总](https://mp.weixin.qq.com/s/zkfCSuyMndWXkUashl3peg)
 
-<img src="https://raw.githubusercontent.com/qiwsir/DjangoPracticeProject/master/smallprogramming.jpg" width=200 height=200 />
+## 购买地址
 
-# Python学习资源推荐：
-
-- 系列图书《跟老齐学Python：Django实战》、《跟老齐学Python：数据分析》，各大网店和书店有售
-- 在线视频课程：[Python3入门和提升](https://itdiffer.com/course/47)
+各大电商平台有售。
